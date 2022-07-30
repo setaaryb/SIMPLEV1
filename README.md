@@ -10,7 +10,7 @@
      -pip install rich
      -git clone https://github.com/SetaGanz/SIMPLEV1
      -cd SIMPLEV1
-     -python simple.py
+     -python simp.py
 
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/seto.sanwa.3) 
