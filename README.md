@@ -1,7 +1,7 @@
 # WELCOME
     WELCOME TO SC CRACK SIMPLE DENGAN 1 METHODE WORK
 # INSTALL BAHAN
-     -apt update && apt upgrade -y
+     -pkg update && pkg upgrade -y
      -pkg install python
      -pkg install git
      -pip install bs4
